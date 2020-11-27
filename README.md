@@ -1,3 +1,5 @@
 # nodeschool
 
-my solutions to nodeschool tutorials
+- javascripting
+- learnyounode
+- learnyoubash
