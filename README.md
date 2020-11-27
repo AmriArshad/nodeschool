@@ -1,1 +1,5 @@
 # nodeschool
+
+javascripting
+learnyounode
+learnyoubash
