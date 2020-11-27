@@ -1,5 +1,3 @@
 # nodeschool
 
-javascripting
-learnyounode
-learnyoubash
+my solutions to nodeschool tutorials
