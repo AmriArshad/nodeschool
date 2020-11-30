@@ -1,5 +1,5 @@
 # nodeschool
 
-- [ ] javascripting
+- [x] javascripting
 - [ ] learnyounode
 - [ ] learnyoubash
